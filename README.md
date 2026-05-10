@@ -1,4 +1,4 @@
-# AI Advanced Emotion Detection System
+# AI  Emotion Detection System
 
 ## 📌 Project Overview
 AI Advanced Emotion Detection System is a real-time computer vision project that detects human emotions using webcam video feed.
@@ -73,4 +73,4 @@ AI-Advanced-Emotion-Detection/
 ## Step 1 — Clone Project
 
 ```bash
-git clone https://github.com/your-username/AI-Emotion-Detection.git
+git clone https://github.com/simidubey29/AI-Emotion-Detection.git
